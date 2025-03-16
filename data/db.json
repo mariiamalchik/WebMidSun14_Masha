@@ -1,0 +1,76 @@
+{
+    "users": [
+{
+    "id" : 1,
+    "name": "Sergey" ,
+    "surname": "Belousov",
+    "Photo": "",
+    "balance": 1500
+
+},
+{
+    "id" : 2,
+    "name": "Karolina" ,
+    "surname": "Lebedeva",
+    "Photo": "",
+    "balance": 3000
+},
+{
+    "id" : 3,
+    "name": "Dmitry" ,
+    "surname": "Kapystin",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 4,
+    "name": "Tatsiana" ,
+    "surname": "Kapystina",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 5,
+    "name": "Denis" ,
+    "surname": "Fey",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 6,
+    "name": "Alina" ,
+    "surname": "Kozlova",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 7,
+    "name": "Natasha" ,
+    "surname": "Pupkina",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 8,
+    "name": "Aleksandra" ,
+    "surname": "Kapuxina",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 9,
+    "name": "Fedor" ,
+    "surname": "Sobiratel",
+    "Photo": "",
+    "balance": 2000
+},
+{
+    "id" : 10,
+    "name": "Pavel" ,
+    "surname": "Sidorov",
+    "Photo": "",
+    "balance": 2000
+},
+
+    ]
+}
