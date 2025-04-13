@@ -1,0 +1,156 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Andrey",
+            "surname": "Belousov",
+            "photo": "",
+            "balance": 1500
+        },
+        {
+            "id": 2,
+            "name": "Alexey",
+            "surname": "Ivanov",
+            "photo": "",
+            "balance": 2300
+        },
+        {
+            "id": 3,
+            "name": "Dmitry",
+            "surname": "Petrov",
+            "photo": "",
+            "balance": 1750
+        },
+        {
+            "id": 4,
+            "name": "Anna",
+            "surname": "Sidorova",
+            "photo": "",
+            "balance": 3000
+        },
+        {
+            "id": 5,
+            "name": "Olga",
+            "surname": "Kuznetsova",
+            "photo": "",
+            "balance": 1200
+        },
+        {
+            "id": 6,
+            "name": "Ivan",
+            "surname": "Smirnov",
+            "photo": "",
+            "balance": 2500
+        },
+        {
+            "id": 7,
+            "name": "Elena",
+            "surname": "Popova",
+            "photo": "",
+            "balance": 1800
+        },
+        {
+            "id": 8,
+            "name": "Pavel",
+            "surname": "Volkov",
+            "photo": "",
+            "balance": 2100
+        },
+        {
+            "id": 9,
+            "name": "Tatiana",
+            "surname": "Kozlova",
+            "photo": "",
+            "balance": 1400
+        },
+        {
+            "id": 10,
+            "name": "Nikolay",
+            "surname": "Morozov",
+            "photo": "",
+            "balance": 1900
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Смартфон Xiaomi Redmi Note 10",
+            "price": 200,
+            "photo": "",
+            "desc": "Смартфон с AMOLED-дисплеем 6.43 дюйма, 48 МП камера и батареей 5000 мАч.",
+            "author_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Ноутбук Lenovo IdeaPad 3",
+            "price": 600,
+            "photo": "",
+            "desc": "15.6-дюймовый ноутбук с процессором AMD Ryzen 5, 8 ГБ ОЗУ и SSD на 256 ГБ.",
+            "author_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Наушники Sony WH-1000XM4",
+            "price": 350,
+            "photo": "",
+            "desc": "Беспроводные наушники с шумоподавлением и временем работы до 30 часов.",
+            "author_id": 9
+        },
+        {
+            "id": 4,
+            "name": "Фитнес-браслет Xiaomi Mi Band 6",
+            "price": 50,
+            "photo": "",
+            "desc": "Фитнес-трекер с AMOLED-дисплеем, мониторингом сна и пульса.",
+            "author_id": 8
+        },
+        {
+            "id": 5,
+            "name": "Кофемашина DeLonghi EC685",
+            "price": 250,
+            "photo": "",
+            "desc": "Компактная кофемашина для приготовления эспрессо и капучино.",
+            "author_id": 6
+        },
+        {
+            "id": 6,
+            "name": "Электросамокат Xiaomi Mi Electric Scooter 3",
+            "price": 450,
+            "photo": "",
+            "desc": "Электросамокат с запасом хода до 30 км и максимальной скоростью 25 км/ч.",
+            "author_id": 2
+        },
+        {
+            "id": 7,
+            "name": "Умная колонка Яндекс.Станция Мини",
+            "price": 100,
+            "photo": "",
+            "desc": "Умная колонка с голосовым помощником Алисой и поддержкой потоковой музыки.",
+            "author_id": 3
+        },
+        {
+            "id": 8,
+            "name": "Электрочайник Bosch TWK 8611",
+            "price": 70,
+            "photo": "",
+            "desc": "Электрочайник с мощностью 2400 Вт и объемом 1.7 литра.",
+            "author_id": 9
+        },
+        {
+            "id": 9,
+            "name": "Робот-пылесос Xiaomi Mi Robot Vacuum-Mop 2",
+            "price": 300,
+            "photo": "",
+            "desc": "Робот-пылесос с функцией мытья полов и временем работы до 110 минут.",
+            "author_id": 4
+        },
+        {
+            "id": 10,
+            "name": "Монитор Samsung Odyssey G5",
+            "price": 400,
+            "photo": "",
+            "desc": "Игровой монитор с диагональю 27 дюймов, разрешением 2560x1440 и частотой 144 Гц.",
+            "author_id": 5
+        }
+    ]
+}
